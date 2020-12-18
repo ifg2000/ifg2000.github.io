@@ -16,5 +16,3 @@ Wir wünschen euche ein schönes Weihnachtsfest und dass ihr und eure Familien u
 Bei Fragen und Anregungen könnt ihr uns jederzeit kontaktieren.
 
 Im Namen der Vorstandschaft
-Norbert Lebküchner
-Thomas Friedrich
