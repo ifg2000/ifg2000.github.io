@@ -7,7 +7,8 @@ categories: update
 ---
 
 <img src="{{ site.baseurl }}/images/photo5458428728116883582.jpg" class="fit image">
+
+Einige Piloten haben das gestrige Wetter dazu genutzt das neue Jahr Fliegerisch einzuleiten. In dem Sinne wünschen wir allen ein erfolgreiches Jahr 2021.
+
 <img src="{{ site.baseurl }}/images/photo5458428728116883584.jpg" class="fit image">
 <img src="{{ site.baseurl }}/images/photo5458428728116883585.jpg" class="fit image">
-
-Einige Piloten haben das gestrige Wetter dazu genutzt in Sammenheim und am Gelben Berg das neue Jahr Fliegerisch einzuleiten. In dem Sinne wünschen wir allen ein erfolgreiches Jahr 2021.
